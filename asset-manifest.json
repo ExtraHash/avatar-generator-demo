@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/avatar-generator-demo/static/css/main.53ecdb31.chunk.css",
-    "main.js": "/avatar-generator-demo/static/js/main.29c2f089.chunk.js",
-    "main.js.map": "/avatar-generator-demo/static/js/main.29c2f089.chunk.js.map",
+    "main.js": "/avatar-generator-demo/static/js/main.477dc536.chunk.js",
+    "main.js.map": "/avatar-generator-demo/static/js/main.477dc536.chunk.js.map",
     "runtime-main.js": "/avatar-generator-demo/static/js/runtime-main.3cf42f2f.js",
     "runtime-main.js.map": "/avatar-generator-demo/static/js/runtime-main.3cf42f2f.js.map",
-    "static/js/2.dec52ef4.chunk.js": "/avatar-generator-demo/static/js/2.dec52ef4.chunk.js",
-    "static/js/2.dec52ef4.chunk.js.map": "/avatar-generator-demo/static/js/2.dec52ef4.chunk.js.map",
+    "static/js/2.ff244461.chunk.js": "/avatar-generator-demo/static/js/2.ff244461.chunk.js",
+    "static/js/2.ff244461.chunk.js.map": "/avatar-generator-demo/static/js/2.ff244461.chunk.js.map",
     "static/js/3.50b29f05.chunk.js": "/avatar-generator-demo/static/js/3.50b29f05.chunk.js",
     "static/js/3.50b29f05.chunk.js.map": "/avatar-generator-demo/static/js/3.50b29f05.chunk.js.map",
     "index.html": "/avatar-generator-demo/index.html",
     "static/css/main.53ecdb31.chunk.css.map": "/avatar-generator-demo/static/css/main.53ecdb31.chunk.css.map",
-    "static/js/2.dec52ef4.chunk.js.LICENSE.txt": "/avatar-generator-demo/static/js/2.dec52ef4.chunk.js.LICENSE.txt"
+    "static/js/2.ff244461.chunk.js.LICENSE.txt": "/avatar-generator-demo/static/js/2.ff244461.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cf42f2f.js",
-    "static/js/2.dec52ef4.chunk.js",
+    "static/js/2.ff244461.chunk.js",
     "static/css/main.53ecdb31.chunk.css",
-    "static/js/main.29c2f089.chunk.js"
+    "static/js/main.477dc536.chunk.js"
   ]
 }
